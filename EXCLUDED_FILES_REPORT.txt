@@ -1,0 +1,21 @@
+The clean GitHub upload package was rebuilt from the user's uploaded project archive.
+
+Excluded from this package:
+- .venv/
+- .idea/
+- Password-Strength-Meter-Accuracy-master.zip
+- RankPSM_v3_1_real_results_B1000.zip
+- data/psma_raw/
+- data/real/
+- prediction_audit_private_v3_1/
+- __pycache__/
+- *.pyc
+- raw password files and password-level prediction audit files
+
+Included:
+- source code
+- scripts
+- requirements
+- safe aggregate results
+- manuscript figures
+- README and data-safety notes

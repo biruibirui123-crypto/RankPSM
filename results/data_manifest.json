@@ -1,0 +1,56 @@
+[
+  {
+    "dataset": "online:rockyou",
+    "n_rows": 899,
+    "n_unique_passwords": 899,
+    "has_zxcvbn": true,
+    "source_file": "data\\real\\result_rockyou_online.csv",
+    "sha256": "feac2d9cb0f22f6412943241cbf51e540f1abe7b6916352f71386d791a5a8fa0",
+    "bytes": 30029
+  },
+  {
+    "dataset": "online:linkedin",
+    "n_rows": 923,
+    "n_unique_passwords": 923,
+    "has_zxcvbn": true,
+    "source_file": "data\\real\\result_linkedin_online.csv",
+    "sha256": "80ee7474e60764e56d0d61b64ca1f7d2e67217388ecbf2d7a99d17161965ea0b",
+    "bytes": 32110
+  },
+  {
+    "dataset": "online:000webhost",
+    "n_rows": 877,
+    "n_unique_passwords": 877,
+    "has_zxcvbn": true,
+    "source_file": "data\\real\\result_000webhost_online.csv",
+    "sha256": "5c8dec767e2223abb8955aa96acb6d2fdcb3979a0aa01de5c34427bf1a54f4b3",
+    "bytes": 31483
+  },
+  {
+    "dataset": "offline:rockyou",
+    "n_rows": 9385,
+    "n_unique_passwords": 9385,
+    "has_zxcvbn": true,
+    "source_file": "data\\real\\result_rockyou_offline.csv",
+    "sha256": "81aff25f0e35d5b81b5ff2c290a65a7ddb8abe98db7e9d5893471baec7409c43",
+    "bytes": 348363
+  },
+  {
+    "dataset": "offline:linkedin",
+    "n_rows": 9701,
+    "n_unique_passwords": 9701,
+    "has_zxcvbn": true,
+    "source_file": "data\\real\\result_linkedin_offline.csv",
+    "sha256": "81349acaccc00866a269c39b288a894cc1dbe04a66dd4a85bb547366418d0727",
+    "bytes": 405878
+  },
+  {
+    "dataset": "offline:000webhost",
+    "n_rows": 9828,
+    "n_unique_passwords": 9828,
+    "has_zxcvbn": true,
+    "source_file": "data\\real\\result_000webhost_offline.csv",
+    "sha256": "0489eec7f5f11ec2c147c5d0ed2aec80e7b0f97df0ff8756856c9b65e069536b",
+    "bytes": 455311
+  }
+]

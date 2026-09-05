@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "RankPSM"
+message: "If you use this code, please cite the accompanying manuscript."
+type: software
+authors:
+  - family-names: Bi
+    given-names: Rui
+    orcid: "https://orcid.org/0009-0005-8499-4149"
+repository-code: "https://github.com/biruibirui123-crypto/RankPSM"
+license: MIT
+version: "3.6"
+date-released: "2026-09-05"

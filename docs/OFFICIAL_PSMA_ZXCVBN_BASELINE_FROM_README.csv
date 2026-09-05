@@ -1,0 +1,13 @@
+meter_output,corpus,scenario,weighted_spearman
+zxcvbn_guess_number,rockyou,online,0.812
+zxcvbn_guess_number,linkedin,online,0.802
+zxcvbn_guess_number,000webhost,online,0.435
+zxcvbn_guess_number,rockyou,offline,0.772
+zxcvbn_guess_number,linkedin,offline,0.908
+zxcvbn_guess_number,000webhost,offline,0.904
+zxcvbn_score,rockyou,online,0.455
+zxcvbn_score,linkedin,online,0.376
+zxcvbn_score,000webhost,online,0.355
+zxcvbn_score,rockyou,offline,0.545
+zxcvbn_score,linkedin,offline,0.670
+zxcvbn_score,000webhost,offline,0.880

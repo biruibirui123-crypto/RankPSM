@@ -1,0 +1,7 @@
+scenario,train,test,w_zxcvbn,w_struct,w_char,valid_weighted_spearman,valid_wsor20
+online,linkedin+000webhost,rockyou,0.0,0.2,0.8,0.3274181860663207,0.04301934064682603
+online,rockyou+000webhost,linkedin,0.75,0.1,0.15,0.8825488743870543,0.03285039999590011
+online,rockyou+linkedin,000webhost,0.9500000000000001,0.0,0.05,0.8489530165433511,0.00425928761326782
+offline,linkedin+000webhost,rockyou,0.9,0.1,-0.0,0.8370402773906409,0.0
+offline,rockyou+000webhost,linkedin,0.75,0.15000000000000002,0.1,0.7506616840442397,0.0
+offline,rockyou+linkedin,000webhost,0.75,0.1,0.15,0.8801820981756525,0.00038018714648495935
